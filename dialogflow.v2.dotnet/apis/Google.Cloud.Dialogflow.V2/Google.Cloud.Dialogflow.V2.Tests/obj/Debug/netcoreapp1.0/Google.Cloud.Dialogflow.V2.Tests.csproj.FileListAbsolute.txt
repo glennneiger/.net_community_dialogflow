@@ -1,0 +1,4 @@
+C:\Users\dosta\Desktop\dialogflow.v2.dotnet\directoryName\apis\Google.Cloud.Dialogflow.V2\Google.Cloud.Dialogflow.V2.Tests\obj\Debug\netcoreapp1.0\Google.Cloud.Dialogflow.V2.Tests.csprojAssemblyReference.cache
+C:\Users\dosta\Desktop\dialogflow.v2.dotnet\directoryName\apis\Google.Cloud.Dialogflow.V2\Google.Cloud.Dialogflow.V2.Tests\obj\Debug\netcoreapp1.0\Google.Cloud.Dialogflow.V2.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dosta\Desktop\dialogflow.v2.dotnet\directoryName\apis\Google.Cloud.Dialogflow.V2\Google.Cloud.Dialogflow.V2.Tests\obj\Debug\netcoreapp1.0\Google.Cloud.Dialogflow.V2.Tests.AssemblyInfoInputs.cache
+C:\Users\dosta\Desktop\dialogflow.v2.dotnet\directoryName\apis\Google.Cloud.Dialogflow.V2\Google.Cloud.Dialogflow.V2.Tests\obj\Debug\netcoreapp1.0\Google.Cloud.Dialogflow.V2.Tests.AssemblyInfo.cs

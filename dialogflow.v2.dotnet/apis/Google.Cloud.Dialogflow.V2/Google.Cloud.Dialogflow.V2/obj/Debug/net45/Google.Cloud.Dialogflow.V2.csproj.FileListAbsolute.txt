@@ -1,0 +1,5 @@
+C:\Users\dosta\Desktop\dialogflow.v2.dotnet\directoryName\apis\Google.Cloud.Dialogflow.V2\Google.Cloud.Dialogflow.V2\obj\Debug\net45\Google.Cloud.Dialogflow.V2.csprojAssemblyReference.cache
+C:\Users\dosta\Desktop\dialogflow.v2.dotnet\directoryName\apis\Google.Cloud.Dialogflow.V2\Google.Cloud.Dialogflow.V2\obj\Debug\net45\Google.Cloud.Dialogflow.V2.csproj.CoreCompileInputs.cache
+C:\Users\dosta\Desktop\dialogflow.v2.dotnet\directoryName\apis\Google.Cloud.Dialogflow.V2\Google.Cloud.Dialogflow.V2\obj\Debug\net45\PlatformCompat.Analyzers.settings
+C:\Users\dosta\Desktop\dialogflow.v2.dotnet\directoryName\apis\Google.Cloud.Dialogflow.V2\Google.Cloud.Dialogflow.V2\obj\Debug\net45\Google.Cloud.Dialogflow.V2.AssemblyInfoInputs.cache
+C:\Users\dosta\Desktop\dialogflow.v2.dotnet\directoryName\apis\Google.Cloud.Dialogflow.V2\Google.Cloud.Dialogflow.V2\obj\Debug\net45\Google.Cloud.Dialogflow.V2.AssemblyInfo.cs
