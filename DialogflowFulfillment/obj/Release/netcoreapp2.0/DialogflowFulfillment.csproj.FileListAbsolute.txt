@@ -1,0 +1,11 @@
+C:\Users\dosta\Desktop\DialogflowFulfillment\bin\Release\netcoreapp2.0\DialogflowFulfillment.deps.json
+C:\Users\dosta\Desktop\DialogflowFulfillment\bin\Release\netcoreapp2.0\DialogflowFulfillment.runtimeconfig.json
+C:\Users\dosta\Desktop\DialogflowFulfillment\bin\Release\netcoreapp2.0\DialogflowFulfillment.runtimeconfig.dev.json
+C:\Users\dosta\Desktop\DialogflowFulfillment\bin\Release\netcoreapp2.0\DialogflowFulfillment.dll
+C:\Users\dosta\Desktop\DialogflowFulfillment\bin\Release\netcoreapp2.0\DialogflowFulfillment.pdb
+C:\Users\dosta\Desktop\DialogflowFulfillment\obj\Release\netcoreapp2.0\DialogflowFulfillment.csprojAssemblyReference.cache
+C:\Users\dosta\Desktop\DialogflowFulfillment\obj\Release\netcoreapp2.0\DialogflowFulfillment.csproj.CoreCompileInputs.cache
+C:\Users\dosta\Desktop\DialogflowFulfillment\obj\Release\netcoreapp2.0\DialogflowFulfillment.AssemblyInfoInputs.cache
+C:\Users\dosta\Desktop\DialogflowFulfillment\obj\Release\netcoreapp2.0\DialogflowFulfillment.AssemblyInfo.cs
+C:\Users\dosta\Desktop\DialogflowFulfillment\obj\Release\netcoreapp2.0\DialogflowFulfillment.dll
+C:\Users\dosta\Desktop\DialogflowFulfillment\obj\Release\netcoreapp2.0\DialogflowFulfillment.pdb
